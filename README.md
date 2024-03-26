@@ -1,3 +1,32 @@
+# Proyecto de Gestión de Ventas en Java
+
+Este proyecto implementa un sistema de gestión de ventas en Java, que procesa archivos de ventas de vendedores y genera informes de ventas y productos vendidos.
+
+## Instalación
+
+1. Clona o descarga este repositorio.
+2. Importa el proyecto en Eclipse.
+3. Asegúrate de tener configurada la versión de Java 8 en Eclipse.
+
+## Uso
+
+1. Coloca los archivos de ventas de vendedores, información de vendedores y de productos en el directorio del proyecto.
+2. Ejecuta la clase `Main` para procesar los datos y generar los informes.
+3. Verifica los archivos de reporte generados en el directorio del proyecto: `SalesReport.csv` y `ProductSales.csv`.
+
+## Contribución
+
+Si deseas contribuir al proyecto, sigue estos pasos:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tu contribución.
+3. Realiza tus cambios y envía una solicitud de extracción.
+4. Espera la revisión del código y la integración de tus cambios.
+
+## Estructura del Proyecto
+
+- `GenerateInfoFiles.java`: Clase para generar archivos de datos pseudoaleatorios.
+- `Main.java`: Clase principal que procesa los datos y genera informes.
+
 Documentacion Codigo
 
 GenerateInfoFiles.java
